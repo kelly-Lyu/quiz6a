@@ -7,7 +7,6 @@
 
 library(testthat)
 
-# Assuming german_cities variable is defined as follows
 german_cities <- c("Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt", "Rostock")
 
 # Test 1: Correct Spelling
